@@ -1,0 +1,17 @@
+Titulo: O Poderoso Chefão
+ano: 1972
+diretor:Francis Ford Coppola
+genero: Crime , Drama
+duração : 175 minutos
+
+titulo: - interestelar
+ano : 2014
+diretor: Chritopher Nolan
+genero: Ficção cientifica, Aventura
+duração: 169 minutos
+ 
+titulo: 2001 - uma odisseia no espaço
+Ano:  1968
+diretor: stanley kubrick
+gênero: Ficção cientifica
+Duração: 142 minutos
